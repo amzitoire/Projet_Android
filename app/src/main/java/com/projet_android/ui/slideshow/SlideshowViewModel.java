@@ -1,4 +1,4 @@
-package com.projet_android.user.ui.slideshow;
+package com.projet_android.ui.slideshow;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

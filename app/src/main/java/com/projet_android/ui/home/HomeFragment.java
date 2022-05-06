@@ -1,4 +1,4 @@
-package com.projet_android.user.ui.home;
+package com.projet_android.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -18,8 +18,8 @@ public class HomeFragment extends Fragment {
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        com.projet_android.user.ui.home.HomeViewModel homeViewModel =
-                new ViewModelProvider(this).get(com.projet_android.user.ui.home.HomeViewModel.class);
+        com.projet_android.ui.home.HomeViewModel homeViewModel =
+                new ViewModelProvider(this).get(com.projet_android.ui.home.HomeViewModel.class);
 
         binding = FragmentHomeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();

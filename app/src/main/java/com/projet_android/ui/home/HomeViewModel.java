@@ -1,4 +1,4 @@
-package com.projet_android.user.ui.home;
+package com.projet_android.ui.home;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

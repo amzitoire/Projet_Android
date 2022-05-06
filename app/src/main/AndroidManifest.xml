@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Projet_Android">
         <activity
+            android:name=".PatientActivity"
+            android:exported="false"
+            android:label="@string/title_activity_patient"
+            android:theme="@style/Theme.Projet_Android.NoActionBar" />
+        <activity
             android:name=".user.UserActivity"
             android:exported="false"
             android:label="@string/title_activity_user"

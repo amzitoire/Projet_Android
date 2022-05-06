@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Medicheck</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="user">User</string>
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="appointment">Appointment</string>
+    <string name="consultation">Consultation</string>
+    <string name="medical_file">Medical file</string>
+    <string name="antecedent">Antecedent</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="sex">Sex</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="connect">Connect</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_field">Required field</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parameters">Incorrect parameters</string>
+    <string name="error_save">Save failed</string>
+    <string name="success_save">Save succeeded</string>
+    <string name="success_cancel_appointment">Appointment canceled</string>
+    <string name="error_cancel_appointment">Unable to cancel appointment</string>
+    <string name="success_postpone_appointment">Appointment postponed</string>
+    <string name="error_postpone_appointment">Unable to postpone appointment</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_user">Patient</string>
+    <string name="title_activity_patient">Utilisateur</string>
+</resources>
